@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graphify Project Memory"
+  short_description: "Query compact project state and Graphify with measured token savings"
+  default_prompt: "Use Project Memory and Graphify to retrieve only the context needed for this task."

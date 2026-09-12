@@ -1,0 +1,19 @@
+{
+  "name": "graphify-project-memory",
+  "version": "0.3.6",
+  "description": "Structured project state, decisions, checkpoints and token metrics alongside Graphify",
+  "author": {
+    "name": "Patrona",
+    "email": "elizarongas@gmail.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Graphify Project Memory",
+    "shortDescription": "Shared project state and measurable Graphify retrieval.",
+    "longDescription": "Keep compact project state, decisions, issues and checkpoints; query them together with Graphify and measure token reduction.",
+    "developerName": "eliza",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Inspect Project Memory and Graphify, then tell me the current state and next action using minimal context."
+  }
+}

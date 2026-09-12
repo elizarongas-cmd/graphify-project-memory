@@ -1,0 +1,6 @@
+.project-memory/
+graphify-out/
+.git/
+__pycache__/
+*.egg-info/
+.pytest_cache/
