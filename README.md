@@ -2,6 +2,25 @@
 
 Graphify Project Memory is a zero-runtime-dependency companion for Graphify that keeps auditable project continuity while Graphify maps structural relationships and Git preserves source history.
 
+# Built for Graphify
+
+Graphify Project Memory is an independent companion project for
+[Graphify](https://github.com/Graphify-Labs/graphify).
+
+Graphify provides structural project intelligence through its code and document graph.
+
+Graphify Project Memory adds:
+
+- operational project continuity
+- durable facts with provenance
+- decisions and issues
+- checkpoints
+- freshness tracking
+- adaptive context retrieval
+- narrow source hydration
+
+GPM does not replace or fork Graphify. It uses Graphify as the structural intelligence layer while Git remains the authority for source history.
+
 ## Authority boundaries
 
 - **Git:** source history, reviewable changes and recovery.

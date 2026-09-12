@@ -9,7 +9,7 @@ description = "Structured project state and token metrics companion for Graphify
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Patrona", email = "elizarongas@gmail.com" }]
+authors = [{ name = "elizarongas-cmd", email = "elizarongas@gmail.com" }]
 dependencies = []
 
 [project.scripts]
@@ -17,3 +17,9 @@ gpm = "graphify_project_memory.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/elizarongas-cmd/graphify-project-memory"
+Repository = "https://github.com/elizarongas-cmd/graphify-project-memory"
+Issues = "https://github.com/elizarongas-cmd/graphify-project-memory/issues"
+Graphify = "https://github.com/Graphify-Labs/graphify"
